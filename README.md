@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Roshan S
-- 👀 I’m interested in Web Developing
+- 👀 I’m interested in Web Development
 - 🌱 I’m currently learning MERN
 - 📫 How to reach mohanroshan376@gmail.com
 
